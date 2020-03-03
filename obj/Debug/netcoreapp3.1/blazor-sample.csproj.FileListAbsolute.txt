@@ -45,3 +45,5 @@
 /Users/kszeto/Documents/Personal/Projects/blazor-sample/obj/Debug/netcoreapp3.1/blazor-sample.dll
 /Users/kszeto/Documents/Personal/Projects/blazor-sample/obj/Debug/netcoreapp3.1/blazor-sample.pdb
 /Users/kszeto/Documents/Personal/Projects/blazor-sample/obj/Debug/netcoreapp3.1/blazor-sample.csproj.CopyComplete
+/Users/kszeto/Documents/Personal/Projects/blazor-sample/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Todo.razor.g.cs
+/Users/kszeto/Documents/Personal/Projects/blazor-sample/obj/Debug/netcoreapp3.1/Razor/Pages/Todo.razor.g.cs
